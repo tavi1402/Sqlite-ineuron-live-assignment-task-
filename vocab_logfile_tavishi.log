@@ -1,0 +1,6 @@
+2022-06-17 20:40:35 INFO-Word count for records: 29647 from 2Datasets
+2022-06-17 20:44:57 INFO-Data record count : 26 from 2Datasets
+2022-06-17 20:47:08 INFO-Total filter records: 115429 from 1Datasets
+2022-06-17 20:51:14 INFO-Success Return of list of list
+2022-06-17 20:53:38 INFO-Database Created: <sqlite3.Connection object at 0x000001E05B423D50>
+2022-06-17 20:53:38 ERROR-Error: table main_table already exists
